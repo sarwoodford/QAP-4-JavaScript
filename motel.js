@@ -1,4 +1,6 @@
-
+// Author : Sara Woodford
+// Description : Desribes the attributes of a motel guest
+// Date(s) : March 14, 2024 
 
 let customer = {
     firstName: "John",
